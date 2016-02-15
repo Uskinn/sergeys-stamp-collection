@@ -1,7 +1,8 @@
 Sergey's Stamp Collection App
 ------
 
-# About Sergey
+# About Sergey's stamps
 
+New York times raves is the best stam collections of age
+Sergey has a great collection of rare Chinese stamps
 
-New York times graves is the best stam collections of age

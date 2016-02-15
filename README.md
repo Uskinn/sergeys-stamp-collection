@@ -1,4 +1,4 @@
-Simon's Stamp Collection App
+Sergey's Stamp Collection App
 ------
 
 # About Sergey

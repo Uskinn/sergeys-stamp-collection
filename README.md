@@ -4,4 +4,4 @@ Simon's Stamp Collection App
 # About Sergey
 
 
-Stuff about Simon's Stamps Here...
+Sergey has a great collection of rare Chinese stamps

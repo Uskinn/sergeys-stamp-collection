@@ -1,7 +1,7 @@
-Simon's Stamp Collection App
+Sergey's Stamp Collection App
 ------
 
 # About Sergey
 
 
-Stuff about Simon's Stamps Here...
+New York times graves is the best stam collections of age
